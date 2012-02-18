@@ -20,7 +20,7 @@ Scouting-Pit:
 	This is used to collect data on the individual
 	robots for pit scouting.
 	
-Unit Tests:
+Tests:
 	This is for independent apps and snippets used
 	as a proof-of-concept or testing implementation
 	of a specific feature.
