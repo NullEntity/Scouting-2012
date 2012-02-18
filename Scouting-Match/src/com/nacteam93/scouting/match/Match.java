@@ -1,5 +1,7 @@
 package com.nacteam93.scouting.match;
 
+import android.util.Log;
+
 public class Match {
 	enum Color { red, blue };
 	
@@ -15,10 +17,10 @@ public class Match {
 			GatheredBallsDuringHybrid, UsedCoopertitionBridge, YellowCarded, RedCarded;
 	
 	public void addShot(Field f, Zone z/*, HoopType h, ShotType s*/){
-		
+		Log.d("Match","Add shot to");
 	}
 	
 	public void addAirball(Field f, Zone z){
-		
+		Log.d("","");
 	}
 }

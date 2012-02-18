@@ -6,6 +6,10 @@ import java.util.Map;
 
 public class Field {
 	private Map<String, Zone> Zones = new HashMap<String, Zone>();
+
+	/***
+	 * Field Constructor
+	 */
 	Field() {
 		Zones.put("BlueBridge", new Zone());
 		Zones.put("NextToBlueBridge", new Zone());
@@ -29,5 +33,7 @@ public class Field {
 		Zones.put("RedAlleyFar", new Zone());
 		Zones.put("CoopBridge", new Zone());
 	}
+	
+	
 }
 // #SWaG

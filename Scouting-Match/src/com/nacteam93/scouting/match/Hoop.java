@@ -9,15 +9,19 @@
 
 package com.nacteam93.scouting.match;
 
+import android.util.Log;
+
 public class Hoop {
 	// Instantiate object variables
 	private int hits = 0, misses = 0;
 	
 	public void addHit() {
+		Log.d("Hoop","Add a made hoop");
 		hits++;
 	}
 	
 	public void addMiss() {
+		Log.d("Hoop","Add a missed hoop");
 		misses++;
 	}
 	
