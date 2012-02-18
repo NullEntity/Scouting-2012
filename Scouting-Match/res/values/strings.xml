@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScoutingMatchActivity!</string>
+    <string name="app_name">Scouting-Match</string>
+    <string name="name">Scouter Name:</string>
+    <string name="enter">Next</string>
+    <string name="none">None</string>
+    <string name="top">Top</string>
+    <string name="mid">Mid</string>
+    <string name="bottom">Bottom</string>
+    <string name="miss">Miss</string>
+    <string name="outputxml">Export Database</string>
+    <string name="teamnum">Team #:</string>
+    <string name="robotcolor">Robot Color:</string>
+    <string name="matchnum">Match #:</string>
+    
+    <string-array name="matches_array">
+        <item>Match 1</item>
+        <item>Match 2</item>
+        <item>Match 3</item>
+        <item>Match 4</item>
+        <item>Match 5</item>
+        <item>Match 6</item>
+        <item>Match 7</item>
+    </string-array>
+
+</resources>
