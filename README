@@ -1,1 +1,26 @@
-Swag.
+N.E.W. Apple Corps Robotics, Team 93
+2012 Scouting Applications
+
+These applications are designed to be compiled
+for Android 3.2 in Eclipse for 10.1" Toshiba
+Thrives. It may or may not work on other devices
+or OS versions.
+
+Projects:
+
+Scouting-Match:
+	This is the application used for scouting each
+	match.
+	
+Scouting-Coach:
+	This is used to set configuration for the
+	other apps.
+	
+Scouting-Pit:
+	This is used to collect data on the individual
+	robots for pit scouting.
+	
+Unit Tests:
+	This is for independent apps and snippets used
+	as a proof-of-concept or testing implementation
+	of a specific feature.
